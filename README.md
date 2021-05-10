@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thaoduyentran
+- 👋 Hi, I’m Thao Duyen Tran
 - 👀 I’m interested in applied technologies in education and investments
 - 🌱 I’m currently learning Data Analytics by myself and working on agile tech product innovation and management at East Agile 
 - 💞️ I'm looking to connect with people who share the same passions 
