@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thao Duyen Tran
 - 👀 I’m interested in applied technologies in education and investments
-- 🌱 I’m currently learning Data Analytics by myself and working on technology and entrepreneur projects 
+- 🌱 I’m currently learning Data Analytics by myself and working on agile technology, AI and entrepreneur projects 
 - 💞️ I'm looking to connect with people who share the same passions 
 - 📫 You can reach me at: thaoduyen20697@gmail.com
 
